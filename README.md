@@ -1,1 +1,1 @@
-# Examen-final-java
+# Examen-final-javascript
